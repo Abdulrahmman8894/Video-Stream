@@ -104,8 +104,8 @@ async def alive(client: Client, message: Message):
         [
             [
                 InlineKeyboardButton("✨ مبرمج السورس يبني..😺♥", url=f"https://t.me/DeshaXBlacck"),
-                InlineKeyboardButton(
-                    "📣 قناة السورس", url=f"https://t.me/music_Desha1"
+                زر لوحة المفاتيح المضمنة (
+                    "📣 قناة السورس"  ،  url  =  f  "https://t.me/MR_X_N_1"
                 ),
             ]
         ]
